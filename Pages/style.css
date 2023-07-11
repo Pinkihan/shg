@@ -1052,3 +1052,14 @@ padding-top: 10px;
   padding: 24% 10px;
   color: floralwhite;
 }
+
+@media screen and (max-width: 335px), 
+       screen and (max-height: 595px) {
+
+        .slide .coffeeCateringContentHiring1 {
+          padding: 2% 10px;
+        }
+	.navigation-manual {
+          margin-top: 70px;
+      }      
+}
