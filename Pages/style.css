@@ -1061,5 +1061,8 @@ padding-top: 10px;
         }
 	.navigation-manual {
           margin-top: 70px;
-      }      
+      }
+	.navigation-auto {
+        margin-top: 570px;
+    }
 }
