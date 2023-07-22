@@ -93,7 +93,7 @@ const body = document.querySelector("body");
 
     var counter = 1;
     setInterval(function(){
-      document.getElementById('radio' + counter).checked = true;
+      document.getElementById('radiod' + counter).checked = true;
       counter++;
       if(counter > 4){
         counter = 1;
