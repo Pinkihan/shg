@@ -47,15 +47,13 @@
   align-items: center;
   justify-content: space-between;
 }
-.navbar .logo a{
-  color: white;
-  font-size: 30px;
-  font-weight: 600;
-  text-decoration: none;
+.navbar .lessLogo{
+  color: #e7e2e2;
+  width: 90px;
 }
 
-.navbar.sticky .logo a{
-  color: #813128;
+.navbar.sticky .lessLogo{
+  color: #e7e2e2;
 }
 
 
