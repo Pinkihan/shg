@@ -15,6 +15,10 @@ body{
 	line-height: 1.5;
 }
 
+img.lessLogo {
+    width: 90px;
+}
+
 .food-item{
     border-radius: 4px;
     overflow: hidden;
