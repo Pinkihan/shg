@@ -255,23 +255,24 @@ display: flex;
 
 
 .middle{
-    background-color: #0f7128;
+background-color: #0f7128;
     display: flex;
     width: 300px;
     box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.1);
     border-bottom-right-radius: 15px;
     border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
 }
     
 
 .links{
-  
-display: flex;
-flex-wrap: wrap;
-  justify-content: space-between;
-
-  column-gap: 2px;
-
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 14px;
+    column-gap: 2px;
+    margin-top: 0px;
 }
 
 .shop-links.stickie{
@@ -302,7 +303,14 @@ flex-wrap: wrap;
     cursor: pointer;
     transition: .4s ease-in-out;
     padding-bottom: 10px;
+    margin-top: -10px;
 }
+@media(max-width: 867px){
+    .links{
+        margin-top: 10px;
+    }
+}
+
 .shop-links .links li:hover{
     color: var(--main-color);
 }
