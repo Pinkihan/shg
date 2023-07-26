@@ -194,7 +194,7 @@ background: #005917;
 
 .card3{
 	width: 300px;
-	color: #813128;
+	color: #e7ffca;
 
 	position: relative;
   margin-bottom: 40px;
@@ -682,7 +682,7 @@ padding-top: 10px;
 }
 
 .read-more-btn3:hover{
-  background-color: #fc796b;
+  background-color: #54a136;
   box-shadow: 0 0 2rem rgba(0,0,0,0.1);
   transform: translateY(-3px);
 }
