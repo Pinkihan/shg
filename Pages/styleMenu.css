@@ -22,7 +22,7 @@ img.lessLogo {
 .food-item{
     border-radius: 4px;
     overflow: hidden;
-    color: #9c3e33;
+    color: #e7ffce;
     box-shadow: 2px 2px 30px rgba(0,0,0,0.1);
     animation: fadeIn 1s;
 }
