@@ -378,7 +378,7 @@ ul{
 	position: absolute;
 	left:0;
 	bottom: -10px;
-	background-color: #e91e63;
+	background-color: #54a136;
 	height: 2px;
 	box-sizing: border-box;
 	width: 50px;
@@ -486,7 +486,7 @@ form button{
 
 .buttonSubscribe:hover{
 
-    background-color: #fc796b;
+    background-color: #54a136;
     box-shadow: 0 0 2rem rgba(0,0,0,0.1);
     transform: translateY(-3px);
   }
@@ -497,7 +497,7 @@ form button{
   .buttonSubscribe{
   width: 142px;
   display: inline-block;
-  background-color: rgb(250, 150, 166);
+  background-color: #3c8121;
   padding: 0px 5px 5px 5px;
   position: relative;
   z-index: 1;
