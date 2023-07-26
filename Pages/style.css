@@ -80,7 +80,8 @@
 }
 .about{
   padding: 40px 0;
-  background-image: linear-gradient(to top right, #1c6300 , #ffffff);
+background: #005917;
+  /*background-image: linear-gradient(to top right, #1c6300 , #ffffff);*/
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 2;
@@ -88,7 +89,7 @@
 .about .title{
   font-size: 35px;
   font-weight: 700;
-  color: #813128;
+  color: #d0e7ca;
 }
 .about p{
   padding-top: 5px;
