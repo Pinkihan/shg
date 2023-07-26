@@ -285,7 +285,7 @@ background: #005917;
  
   display: inline-block;
   color: var(--accent);
-  background-color: rgb(250, 150, 166);
+  background-color: #3c8121;
   padding: 0px 5px 5px 5px;
   position: relative;
   z-index: 1;
@@ -311,7 +311,7 @@ background: #005917;
 }
 
 .read-more-btn2:hover{
-  background-color: #fc796b;
+  background-color: #54a136;
   box-shadow: 0 0 2rem rgba(0,0,0,0.1);
   transform: translateY(-3px);
 }
