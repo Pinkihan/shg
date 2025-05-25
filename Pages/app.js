@@ -194,7 +194,7 @@ currentText.classList.toggle('card_read-more3--open')
 current.textContent = current.textContent.includes('Read More...') ? 'Read Less' : 'Read More...'
 });
 
-const scriptURL = 'https://script.google.com/macros/s/AKfycbzN1ITL9WXu25RwCbUuqsqVEQkxIyFI93qjAbsXDcTO23Hzy9IyEb86WJNhidkIcbQD/exec'
+const scriptURL = 'https://script.google.com/macros/s/AKfycby1kYN60vcGRSsbkE1WkpclZhpaO7qSloOyU_obuFPx9nAqNAScFaxWHFFZD27gWqtRtw/exec'
 const form = document.forms['submit-to-google-sheet']
 const msg = document.getElementById("msg")
 form.addEventListener('submit', e => {
