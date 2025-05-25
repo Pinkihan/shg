@@ -495,7 +495,7 @@ form button{
 
 
   .buttonSubscribe{
-  width: 200px;
+  width: auto;
   display: inline-block;
   background-color: #3c8121;
   padding: 0px 5px 5px 5px;
