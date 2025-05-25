@@ -495,9 +495,9 @@ form button{
 
 
   .buttonSubscribe{
-  width: auto;
- min-width: 120px;	  
-	  
+  	width: auto; 
+	min-width: 120px;
+	white-space: nowrap;
   display: inline-block;
   background-color: #3c8121;
   padding: 0px 5px 5px 5px;
